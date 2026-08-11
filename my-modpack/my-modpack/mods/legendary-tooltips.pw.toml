@@ -1,0 +1,13 @@
+name = "Legendary Tooltips"
+filename = "LegendaryTooltips-26.2-fabric-1.6.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/atHH8NyV/versions/sdrOpGYC/LegendaryTooltips-26.2-fabric-1.6.2.jar"
+hash-format = "sha512"
+hash = "4866eed0666194136ca0bd64ed759ea3d8ee9d2544f1ed8116505c757e2da23e04ca52f904113c0672289f4928cd38c1a5fd187b91335e5dba75136271ca6ffe"
+
+[update]
+[update.modrinth]
+mod-id = "atHH8NyV"
+version = "sdrOpGYC"
