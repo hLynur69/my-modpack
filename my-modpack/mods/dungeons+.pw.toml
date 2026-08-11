@@ -1,0 +1,13 @@
+name = "Dungeons+"
+filename = "dungeons+-1.12.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/nHORcEHd/versions/VT75yixL/dungeons%2B-1.12.0.jar"
+hash-format = "sha512"
+hash = "168fb45f3cde22bb7e5fbbd0c6981d5acfc2cb1f9118b79a5bf75441c0f8ac82fd2cf8f001ce460b323046a33a43039c0cd38f74778db40738d97f14387a231e"
+
+[update]
+[update.modrinth]
+mod-id = "nHORcEHd"
+version = "VT75yixL"

@@ -1,0 +1,13 @@
+name = "Drink Beer Refill"
+filename = "drinkbeer-refill-26.2-fabric-1.4.0-beta.3+fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/RZwVw5iA/versions/C6ESSfz8/drinkbeer-refill-26.2-fabric-1.4.0-beta.3%2Bfabric.jar"
+hash-format = "sha512"
+hash = "9135ad6faac99c50ae328b1046b4e571c65509d65dc7a8673e5023c115e86d91f4e05c5e6836ce105b3837c9a2fdf03cb6a9424457bfb969294d0beef0f09cdc"
+
+[update]
+[update.modrinth]
+mod-id = "RZwVw5iA"
+version = "C6ESSfz8"
