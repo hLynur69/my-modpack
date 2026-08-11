@@ -1,0 +1,13 @@
+name = "Passable Leaves"
+filename = "passable-leaves-datapack-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/8xG8UA5T/versions/QUvFj7Ev/passable-leaves-datapack-1.0.1.jar"
+hash-format = "sha512"
+hash = "223bfd144b0eb25527261155939095cdb64dc4e2608b393c0676c318e032c22d9e391eec54a572e7d4a85104a6947d52f421f1b9dcd8d43be459b582884af5b0"
+
+[update]
+[update.modrinth]
+mod-id = "8xG8UA5T"
+version = "QUvFj7Ev"

@@ -1,0 +1,13 @@
+name = "Durability Tooltip"
+filename = "durabilitytooltip-1.1.6-fabric-mc26.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e55a92667f6b2edbad83f2f38fcf8a5a82a262a1"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8307540
+project-id = 511040
